@@ -12,16 +12,24 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
-    },
-    {
       label: 'About me',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'What am I up to',
+      path: '/pages/upto'
+    },
+    {
+      label: "Books I've Read",
+      path: '/pages/books'
+    },
+    {
+      label: 'Side Projects',
+      path: '/pages/sideprojects'
+    },
+    {
+      label: 'Blog',
+      path: '/'
     }
   ],
   author: {
@@ -29,14 +37,14 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Hi! I am a Product Manager based in New Jersey, Welcome to my site.',
     contacts: {
-      email: '',
+      email: 'gudzak6@yahoo.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'https://twitter.com/The__Gudz',
+      github: 'https://github.com/gudzak6',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/jgudzak/',
       instagram: '#',
       line: '',
       gitlab: '',
