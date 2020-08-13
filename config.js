@@ -24,7 +24,7 @@ module.exports = {
       path: '/pages/books'
     },
     {
-      label: 'Side Projects',
+      label: 'Projects and Experience',
       path: '/pages/sideprojects'
     },
     {
