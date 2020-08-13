@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Joey Gudzak',
-  subtitle: 'Hi! I am a Product Manager based in New Jersey, Welcome to my site.',
+  subtitle: "Hi I'm Joey, I am a Product Manager based in New Jersey, Welcome to my site! Let's Connect!",
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -34,7 +34,7 @@ module.exports = {
   ],
   author: {
     name: 'Joey Gudzak',
-    photo: '/photo.jpg',
+    photo: '/IMG_1624.JPG',
     bio: 'Hi! I am a Product Manager based in New Jersey, Welcome to my site.',
     contacts: {
       email: 'gudzak6@yahoo.com',

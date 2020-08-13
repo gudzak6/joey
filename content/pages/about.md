@@ -12,7 +12,7 @@ Spent my College days at Monmouth University: </br>
 🚀 Traveled to Guatemala on Alternative Spring Break trips 
 
 
-![Meet my new puppy, Hudson!](/media/IMG_6078.JPG)
+![](/media/IMG_3004.JPG)
 *Me and @mattsheenan in Guatemala*
 
 Work Life: </br>
@@ -20,7 +20,7 @@ Work Life: </br>
 • Spent some time working as a Data Analyst at Millstone Financial </br>
 • Worked as a Full stack Developer at Winston Benefits </br>
 • Currently working in the Customer Office at Prudential Finanicial as an Associate Product Manager </br>
-• Inspired by my trips to Guatemala, started a non-profit to allow others to volunteer internationally and create change! <a target="_blank" href="https://www.impow3r.com/">Learn more here: Impow3r</a> ) </br>
+• Inspired by my trips to Guatemala, started a non profit to allow others to volunteer internationally and create change! <a target="_blank" href="https://www.impow3r.com/">Learn more here: Impow3r</a> ) </br>
 🐶Spending my non working days taking care of my new puppy
 
 ![Meet my new puppy, Hudson!](/media/IMG_1045.JPG)
