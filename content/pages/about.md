@@ -13,7 +13,7 @@ Spent my College days at Monmouth University: </br>
 
 
 ![](/media/IMG_3004.JPG)
-*Me and @mattsheenan in Guatemala*
+*@mattsheenan and I in Guatemala*
 
 Work Life: </br>
 • Became obsessed with entrepreneurship and building product while working as a PM intern at Trufishing </br>
@@ -24,7 +24,7 @@ Work Life: </br>
 🐶Spending my non working days taking care of my new puppy
 
 ![Meet my new puppy, Hudson!](/media/IMG_1045.JPG)
-*[Just a nice pic of my new puppy Hudson!*
+*Just a nice pic of my new puppy Hudson!*
 
 
 

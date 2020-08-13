@@ -15,7 +15,7 @@ socialImage: "/media/image-4.jpg"
 + Creative Selecton  </br>
 
 
-### Book's I am looking forward to read
+### Book's I am looking forward to reading
 
 + Elephant in the Brain  </br>
 + Lean Product Playbook  </br>
