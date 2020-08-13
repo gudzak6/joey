@@ -19,6 +19,6 @@ What am I up to? </br>
 
 🛠 Spending alot of my time working on side projects. <a target="_blank" href="/Users/joeygudzak/joey-site/content/pages/sideprojects.md"> Let's Build! </a> </br>
 
-🏃🏽‍♂️ Currently Training for the 2021 Disney Marathon! </br>
+🏃🏽‍♂️ Currently Training for the 2021 Disney Marathon!
 
 
