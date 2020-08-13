@@ -17,8 +17,8 @@ What am I up to? </br>
 🌎 Passionate about the Climate Space and wanting to learn how I can make a difference, I enrolled in the second ever cohort at <a target="_blank" href="https://www.terra.do/">Terra.do</a> </br>
 
 
-🛠 Spending alot of my time working on side projects. <a target="_blank" href="/Users/joeygudzak/joey-site/content/pages/sideprojects.md"> Click here to learn more!</a> </br>
+🛠 Spending alot of my time working on side projects. <a target="_blank" href="/Users/joeygudzak/joey-site/content/pages/sideprojects.md"> Let's Build! </a> </br>
 
-🏃🏽‍♂️ Currently Training for the 2021 Disney Marathon by running, hiking! </br>
+🏃🏽‍♂️ Currently Training for the 2021 Disney Marathon! </br>
 
 
