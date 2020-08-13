@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/IMG_0905.JPG"
 ---
 
-![](/media/IMG_6078.JPG)
+![](/media/IMG_3004.JPG)
 *Volunteering event for Pru*
 
 What am I up to? </br>
