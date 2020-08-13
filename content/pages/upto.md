@@ -1,7 +1,7 @@
 ---
 title: "What I am up to?"
 template: "page"
-socialImage: "/media/IMG_0905.JPG"
+socialImage: "/media/IMG_4045.JPG"
 ---
 
 ![](/media/IMG_4045.JPG)
