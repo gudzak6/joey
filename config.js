@@ -34,7 +34,7 @@ module.exports = {
   ],
   author: {
     name: 'Joey Gudzak',
-    photo: '/IMG_1624.JPG',
+    photo: '/photo.JPG',
     bio: 'Hi! I am a Product Manager based in New Jersey, Welcome to my site.',
     contacts: {
       email: 'gudzak6@yahoo.com',
