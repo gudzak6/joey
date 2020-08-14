@@ -1,5 +1,5 @@
 ---
-title: "What I am up to?"
+title: "What am I up to?"
 template: "page"
 socialImage: "/media/IMG_4046.JPG"
 ---
