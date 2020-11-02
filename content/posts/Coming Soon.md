@@ -5,7 +5,7 @@ template: "post"
 draft: false
 slug: "perfecting-the-art-of-perfection"
 category: "Product"
-tags:
+tags: ""
 description: "Product strategy post inspired by Sarah Tavels Heirarchy of Engagment"
 socialImage: "/media/image-2.jpg"
 ---
