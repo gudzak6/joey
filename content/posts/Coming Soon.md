@@ -1,5 +1,5 @@
 ---
-title: Why I got into product
+title: My take on Voyager Digital
 date: "2020-08-01T23:46:37.121Z"
 template: "post"
 draft: false
